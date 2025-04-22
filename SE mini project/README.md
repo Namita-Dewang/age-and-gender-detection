@@ -32,11 +32,6 @@ Make sure you have Python, OpenCV, Flask and PIL installed on your system to run
   ```
 4. Go to your browser and go to http://127.0.0.1:5000/
 
-## Usage
-### The website
-
-![1]
-
 ### Detection on uploaded images
 
 1. Fork the Project
