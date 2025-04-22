@@ -37,10 +37,6 @@ Make sure you have Python, OpenCV, Flask and PIL installed on your system to run
 
 ![1]
 
-### Live detection
-
-![2]
-
 ### Detection on uploaded images
 
 1. Fork the Project
@@ -57,12 +53,6 @@ Make sure you have Python, OpenCV, Flask and PIL installed on your system to run
 [flask]: https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=for-the-badge
 [html-shield]: https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge
 [css-shield]: https://img.shields.io/badge/-CSS-2862E9?logo=css3&logoColor=white&style=for-the-badge
-[instagram-shield]:https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=for-the-badge
-[linkedin-shield]: https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge
-[linkedin]:https://www.linkedin.com/in/umang-tiwari-bb9781193/
-[instagram]:https://www.instagram.com/oxy.moronguy/
-[shaadman-shield]: https://img.shields.io/badge/-SHAADMAN-2B2B2B?logo=github&logoColor=white&style=for-the-badge
-[anchitya-shield]: https://img.shields.io/badge/-ANCHITYA-2B2B2B?logo=github&logoColor=white&style=for-the-badge
 [rhys-shield]: https://img.shields.io/badge/-RHYS-2B2B2B?logo=github&logoColor=white&style=for-the-badge
 [1]: ./Screenshots/1.gif
 [2]: ./Screenshots/2.gif
